@@ -22,9 +22,9 @@
      borderopacity="0.3"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.125"
-     inkscape:cx="-2096"
-     inkscape:cy="-2784"
+     inkscape:zoom="0.0625"
+     inkscape:cx="-2656"
+     inkscape:cy="-624"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -59,7 +59,7 @@
        orientation="0,1"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-6748,253"
+       position="0,253"
        orientation="0,-1"
        id="guide174"
        inkscape:locked="false" />
@@ -69,7 +69,7 @@
        id="guide193"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="185.17422,227.65527"
+       position="-1.7763568e-15,227.65527"
        orientation="0,-1"
        id="guide474"
        inkscape:locked="false" />
