@@ -4,6 +4,5 @@
 
 
 ## 書体見本
+<img width="1280" height="720" alt="FontSample" src="https://github.com/user-attachments/assets/6c67fa73-b82b-429d-b34b-e47a509e4946" />
 
-![FontSample](<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/220c7edd-07d2-415b-ab9d-0b22644bc3f1" />)
-  
