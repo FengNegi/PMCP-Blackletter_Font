@@ -5,5 +5,5 @@
 
 ## 書体見本
 
-![FontSample](https://github.com/user-attachments/assets/e662f2b5-1343-4ecd-a2fc-53d1ee222ab9)
+![FontSample](<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/220c7edd-07d2-415b-ab9d-0b22644bc3f1" />)
   
